@@ -1,0 +1,6 @@
+# comment
+shared/
+checkpoints/
+datasets/
+not_in_git/
+results/
